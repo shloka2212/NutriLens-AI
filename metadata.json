@@ -1,0 +1,7 @@
+{
+  "name": "NutriLens AI",
+  "description": "AI-powered nutritional analysis. Upload a photo of your meal to instantly get detailed information on calories, macronutrients, and vitamins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
